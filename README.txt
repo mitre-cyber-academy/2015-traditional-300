@@ -6,7 +6,7 @@ Solution:
 
 Click the play button under the image of a radio. A series of beeps will sound. Many people will recognize that this is morse code.
 
-Translate this to text. It translates to QZKCM BSJJJ VKQFN, which seems like gibberish. You should consider that it is probably still encrypted.
+Translate this to text. It translates to ZOORA GJAKH ITTEV, which seems like gibberish. You should consider that it is probably still encrypted.
 
 There is also a deck of cards shown on the page. The user can flip through the entire deck by clicking on the topmost card. Googling "deck of cards cipher" will bring up links to the solitaire cipher. Both the wikipedia page and Bruce Schneier's page
 
